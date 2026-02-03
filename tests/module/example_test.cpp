@@ -10,6 +10,6 @@ TEST(example_test_case, example_test)
 
 TEST(example_test_case, example_test2)
 {
-    int num = example::numExample();
+    int num = Example::numExample();
     EXPECT_EQ(num, 0);
 }

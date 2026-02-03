@@ -1,6 +1,6 @@
 #include <iostream>
 
-namespace example {
+namespace Example {
     void printExample() {
         std::cout << "Hello from example\n";
     }

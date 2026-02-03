@@ -1,7 +1,7 @@
 #ifndef EXAMPLE_H
 #define EXAMPLE_H
 
-namespace example {
+namespace Example {
     void printExample();
     int numExample();
 }
